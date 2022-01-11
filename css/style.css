@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+.navbar {
+    background-color: rgb(195, 250, 250);
+}
+
+.quem-somos {
+    background-color: rgb(171, 224, 207);
+    color: rgb(48, 100, 98);
+}
+
+.margin {
+    padding-top: 80px;
+    padding-bottom: 70px;
+}
+
+.projetos {
+    background-color: rgb(16, 167, 167);
+    color: rgb(48, 100, 98);
+}
+
+.produtos {
+    background-color: rgb(171, 224, 207);
+}
+
+.rodape {
+    background-color: rgb(5, 107, 107);
+    padding-bottom: 20px;
+}
+
+.text-rodape {
+    color: aliceblue;
+    height: 30px;
+}
