@@ -1,2 +1,4 @@
 # Aula-BootstrapDio.me
-Desenvolvimento de um site usando o Bootstrap
+Desenvolvimento de uma página usando o Bootstrap.
+
+Page development using Bootstrap.
